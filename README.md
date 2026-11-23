@@ -12,7 +12,7 @@
 
 ## Репозитории
 - https://github.com/dima1707070-stack/Linux_Bandit - конспекты и шпаргалки по сетям, Linux и безопасности
-- https://github.com/dima1707070-stack/TryHackMe - разборы лабораторных и комнат TryHackMe
+- https://github.com/dima1707070-stack/TryHackMe - разборы лабораторных и комнат TryHackMe(будет немного позже)
 - https://github.com/dima1707070-stack/Yandex-practicum - разборы практических работ Яндекс практикума
 
 ## Цели
